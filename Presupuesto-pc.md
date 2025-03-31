@@ -1,4 +1,6 @@
-![](assets/20250331_194517_cabecera.png)
+!asd
+
+![](assets/20250331_202307_cabecera.png)
 
 # Presupuesto PC AMD
 
@@ -14,8 +16,6 @@
 | Torre                    | Corsair 3000D AIRFLOW Cristal Templado Blanco  | 79,90€   |   [Enlace](https://www.pccomponentes.com/corsair-3000d-airflow-cristal-templado-usb-30-blanca)  |
 | **Total**                |                                                 | **925,48€** |     |
 
-
-
 # Presupuesto PC Intel
 
 | Tipo de Componente       | Componente                                      | Precio   | URL |
@@ -29,6 +29,4 @@
 | Almacenamiento SSD       | WD Green 480GB SSD 2.5" SATA 3                 | 39,99€   |   [Enlace](https://www.pccomponentes.com/wd-green-480gb-ssd-25-sata-3)  |
 | Torre                    | Corsair 3000D AIRFLOW Cristal Templado Blanco  | 79,90€   |  [Enlace](https://www.pccomponentes.com/corsair-3000d-airflow-cristal-templado-usb-30-blanca)   |
 | **Total**                |                                                 | **945,19€** |     |
-
-
 
